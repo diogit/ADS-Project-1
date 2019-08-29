@@ -1,0 +1,1 @@
+case class Message(msgType:String, ip:String, port:String, topic:String, content:String, topicOwnerIp:String, topicOwnerPort:String)

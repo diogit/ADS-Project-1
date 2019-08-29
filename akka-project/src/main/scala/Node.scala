@@ -1,0 +1,1 @@
+case class Node(id:Int, ip:String, port:String)
