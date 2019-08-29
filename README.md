@@ -9,8 +9,11 @@ Rita Macedo (46033)
 FOLDER CONTENT:
 
 README.txt -> this file
+
 1st Phase Report.pdf -> the project report
+
 akka-project/ -> the actual project
+
 akka-project/test.sh -> script to run the tester
 
 ================================================================================
