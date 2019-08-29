@@ -1,3 +1,5 @@
+Implementation of a Publish-Subscribe system on a structured network using Chord and Scribe.
+
 MADE BY:
 
 Daniel Flamino (45465)
