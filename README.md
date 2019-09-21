@@ -1,15 +1,13 @@
-Implementation of a Publish-Subscribe system on a structured network using Chord and Scribe.
+# Implementation of a Publish-Subscribe system on a structured network using Chord and Scribe.
 
-MADE BY:
+### Made by:
 
-Daniel Flamino (45465)
-Diogo Silvério (45679)
-Rita Macedo (46033)
+* Daniel Flamino
+* Diogo Silvério
+* Rita Macedo
 
-================================================================================
-
-FOLDER CONTENT:
-
+### Folder Content:
+```
 README.txt -> this file
 
 1st Phase Report.pdf -> the project report
@@ -17,10 +15,9 @@ README.txt -> this file
 akka-project/ -> the actual project
 
 akka-project/test.sh -> script to run the tester
+```
 
-================================================================================
-
-NOTES:
+### Notes:
 
 * The test.sh script was made to run on git-bash for Windows and might not work
 for other OS/terminal combos. It uses an hard coded IP address for the tester
